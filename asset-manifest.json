@@ -1,13 +1,13 @@
 {
-  "main.css": "/to-dududu/static/css/main.0e1cdc42.chunk.css",
-  "main.js": "/to-dududu/static/js/main.b01d5a57.chunk.js",
-  "main.js.map": "/to-dududu/static/js/main.b01d5a57.chunk.js.map",
-  "static/js/1.f70fe031.chunk.js": "/to-dududu/static/js/1.f70fe031.chunk.js",
-  "static/js/1.f70fe031.chunk.js.map": "/to-dududu/static/js/1.f70fe031.chunk.js.map",
-  "runtime~main.js": "/to-dududu/static/js/runtime~main.5d0ad3c2.js",
-  "runtime~main.js.map": "/to-dududu/static/js/runtime~main.5d0ad3c2.js.map",
-  "static/css/main.0e1cdc42.chunk.css.map": "/to-dududu/static/css/main.0e1cdc42.chunk.css.map",
-  "index.html": "/to-dududu/index.html",
-  "precache-manifest.5e9c123ea3f85f1e815e3b7a7d33b984.js": "/to-dududu/precache-manifest.5e9c123ea3f85f1e815e3b7a7d33b984.js",
-  "service-worker.js": "/to-dududu/service-worker.js"
+  "main.css": "/todo-dududu/static/css/main.0e1cdc42.chunk.css",
+  "main.js": "/todo-dududu/static/js/main.213be731.chunk.js",
+  "main.js.map": "/todo-dududu/static/js/main.213be731.chunk.js.map",
+  "static/js/1.f70fe031.chunk.js": "/todo-dududu/static/js/1.f70fe031.chunk.js",
+  "static/js/1.f70fe031.chunk.js.map": "/todo-dududu/static/js/1.f70fe031.chunk.js.map",
+  "runtime~main.js": "/todo-dududu/static/js/runtime~main.8f021142.js",
+  "runtime~main.js.map": "/todo-dududu/static/js/runtime~main.8f021142.js.map",
+  "static/css/main.0e1cdc42.chunk.css.map": "/todo-dududu/static/css/main.0e1cdc42.chunk.css.map",
+  "index.html": "/todo-dududu/index.html",
+  "precache-manifest.a83b3f9d943ceaad627c3d469dfe26d9.js": "/todo-dududu/precache-manifest.a83b3f9d943ceaad627c3d469dfe26d9.js",
+  "service-worker.js": "/todo-dududu/service-worker.js"
 }

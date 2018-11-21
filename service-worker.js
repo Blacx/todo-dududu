@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/to-dududu/precache-manifest.5e9c123ea3f85f1e815e3b7a7d33b984.js"
+  "/todo-dududu/precache-manifest.a83b3f9d943ceaad627c3d469dfe26d9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/to-dududu/index.html", {
+workbox.routing.registerNavigationRoute("/todo-dududu/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
